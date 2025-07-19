@@ -49,7 +49,7 @@ I'm a web developer with nearly 3 years of experience building real-world web ap
 
 - **Languages**: HTML, CSS, JavaScript
 - **Front-End**: ReactJS, Tailwind, Styled Components, Axios
-- **Back-End**: Node.js, Typescript, Azure Cosmos DB
+- **Back-End**: Node.js, TypeScript, Azure Cosmos DB
 - **Tools & Others**: REST APIs, VS Code, Postman, AI Prompting (ChatGPT, Github Copilot), Azure Logic Apps
 - **Version Control**: Git, GitHub
 - **Soft Skills**: Accountability, Problem-Solving, Team Collaboration, Adaptability, Self-Motivated, Strong Communication, Initiative, Continuous Learning, Attention to Detail, Critical Thinking
@@ -60,4 +60,4 @@ I'm a web developer with nearly 3 years of experience building real-world web ap
 
 - 📧 Email: jhonpaulriopay7@gmail.com  
 - 🔗 LinkedIn: [jp-rpy](https://www.linkedin.com/in/jp-rpy-6b3b0b254)
-- 📁 Resume: https://docs.google.com/document/d/1NqI_sz3mBmS02O6bAafj2mMngXhUkTs5/edit?usp=drive_link&ouid=106943041827043394042&rtpof=true&sd=true
+- 📁 Resume: [gdrive](https://drive.google.com/file/d/1idZxCT-6PsEPEVpZyNx6vu7lTX23RAiW/view?usp=sharing)
